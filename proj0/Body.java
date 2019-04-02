@@ -1,6 +1,6 @@
 public class Body
 {
-  final static double G = 6.67e-11;
+  private final static double G = 6.67e-11;
   //create instance variables
   public double xxPos;
   public double yyPos;
